@@ -6,8 +6,8 @@ const Navbar = () => {
     <div className={ s.navbar }>
       {/* <NameLesson /> */}
       <MyLinkButton link='/'>MENU</MyLinkButton>
-      <MyLinkButton link='/'>CRUD</MyLinkButton>
-      <MyLinkButton link='/'>AUTHENTICATION</MyLinkButton>
+      {/* <MyLinkButton link='/'>CRUD</MyLinkButton> */}
+      {/* <MyLinkButton link='/'>AUTHENTICATION</MyLinkButton> */}
     </div>
   )
 }
